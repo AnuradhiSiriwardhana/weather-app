@@ -32,7 +32,7 @@ https://anuradhisiriwardhana.github.io/weather-app
 - HTML
 - CSS
 - Java Script
-   https://openweathermap.org/api
+- https://openweathermap.org/api
 
 
 
@@ -51,4 +51,5 @@ http
 
 ## <a name="documentation">Documentation</a> 
 
-- [Design and Prototyping]( https://www.figma.com/design/jtVs0Opmp4GisTnl1VsFU7/Untitled?node-id=2-33&t=56pBO0nSFZABoMyk-1)
+- [Design and Prototyping]
+-  https://www.figma.com/design/jtVs0Opmp4GisTnl1VsFU7/Untitled?node-id=2-33&t=56pBO0nSFZABoMyk-1
